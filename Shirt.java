@@ -1,7 +1,6 @@
 
 
 /**
- * @author Mr. Holmer
  * A class representing a shirt, like the kind you wear
  */
 public class Shirt {
